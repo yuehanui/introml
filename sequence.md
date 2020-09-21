@@ -63,7 +63,8 @@ to documents that don't match the number of the unit.  We will fix these soon!
     * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf) [[Latex]](./unit03_model_sel/hw/hw03_model_sel.tex)    
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
-     [[Powerpoint]](./lectures/Lect05_Lasso.pptx)         
+     [[Powerpoint]](./lectures/Lect05_Lasso.pptx)        
+    * [Lecture videos](./unit05_lasso/online/readme.md)    
     * [Demo 1:  Predicting prostate cancer](./unit05_lasso/demo1_prostate.ipynb)      
     * [Demo 2:  Predicting housing prices](./unit05_lasso/demo2_housing.ipynb) 
     * [Lab: EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
@@ -71,7 +72,8 @@ to documents that don't match the number of the unit.  We will fix these soon!
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
     [[pdf]](./lectures/Lect06_LogisticReg.pdf)
-    [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx)         
+    [[Powerpoint]](./lectures/Lect06_LogisticReg.pptx) 
+    * [Lecture videos](./unit06_logistic/online/readme.md)            
     * [Demo:  Breast cancer diagnosis via logistic regression](./unit06_logistic/demo_breast_cancer.ipynb)
     * [Lab: Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
     * Problems [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
